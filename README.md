@@ -1,6 +1,6 @@
 #Sarbojit Portfolio
 
-#project 1: Data science Loan qualifier System
+project 1: Data science Loan qualifier System
 
 •	Create an application that can help to find the loan eligibility of a customer.
 
