@@ -12,3 +12,14 @@ project 1: Data science Loan qualifier System
 
 •	Finally deploy the model using flask api
 
+Project 2: Data science Covid 19 prediction using CNN
+
+•	Create an application that can help to predict the covid 19 using medical images.
+
+•	Collect images from different medical resources.
+
+•	Pre-process the image dataset and remove anomalies.
+
+•	Apply CNN algorithm and find the accuracy of the model.
+
+•	Finally deploy the model using flask api.
