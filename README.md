@@ -10,9 +10,11 @@ project 1: Data science Loan qualifier System
 
 •	Apply logistic regression and decision tree algorithm and analysis the accuracy to find the best model.
 
-•	Finally deploy the model using flask api
+•	Finally deploy the model using flask api.
 
- ! [](https://github.com/sarbojitdas/sarbojit-web-CV/blob/main/untiled1.png)
+  ![graph](/sarbojitdas/sarbojit-web-CV/blob/main/untiled1.png)
+
+ 
 
 
 Project 2: Data science Covid 19 prediction using CNN
