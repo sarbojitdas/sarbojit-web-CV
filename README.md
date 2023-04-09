@@ -12,7 +12,7 @@ project 1: Data science Loan qualifier System
 
 •	Finally deploy the model using flask api
 
-![](https://github.com/sarbojitdas/sarbojit-web-CV/blob/main/untiled1.png)
+![graph](https://github.com/sarbojitdas/sarbojit-web-CV/blob/main/untiled1.png)
 
 
 Project 2: Data science Covid 19 prediction using CNN
@@ -27,4 +27,4 @@ Project 2: Data science Covid 19 prediction using CNN
 
 •	Finally deploy the model using flask api.
 
-![](https://github.com/sarbojitdas/sarbojit-web-CV/blob/main/Untitled6.png)
+![confusion matrix](https://github.com/sarbojitdas/sarbojit-web-CV/blob/main/Untitled6.png)
