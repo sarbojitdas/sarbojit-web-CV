@@ -14,6 +14,7 @@ project 1: Data science Loan qualifier System
 
 https://github.com/sarbojitdas/sarbojit-web-CV/blob/main/untiled1.png
 
+
 Project 2: Data science Covid 19 prediction using CNN
 
 •	Create an application that can help to predict the covid 19 using medical images.
@@ -25,3 +26,5 @@ Project 2: Data science Covid 19 prediction using CNN
 •	Apply CNN algorithm and find the accuracy of the model.
 
 •	Finally deploy the model using flask api.
+
+https://github.com/sarbojitdas/sarbojit-web-CV/blob/main/Untitled6.png
